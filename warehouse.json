@@ -1,10 +1,17 @@
 [
   {
+    "id": 1,
     "name": "potato",
     "amount": 20
   },
   {
-    "name": "totato",
-    "amount": 20
+    "id": 2,
+    "name": "tomato",
+    "amount": 40
+  },
+  {
+    "id": 3,
+    "name": "carrot",
+    "amount": 0
   }
 ]

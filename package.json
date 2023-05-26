@@ -1,7 +1,6 @@
 {
   "name": "2uy",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "nodemon start"
@@ -11,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "description": ""
 }
